@@ -1,2 +1,6 @@
 .idea
-.cpcache
+.cpcache/
+.calva
+.clj-kondo
+.nrepl-port
+.lsp
